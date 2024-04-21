@@ -1,30 +1,24 @@
-<h1 align="center">Hello! I'm Ye'ela Granot👋</h1>
+<div style="background-image: url('https://github.com/yeela8g/yeela8g/assets/118124478/339e00c3-e8df-4b8e-948c-021144ed9644'); background-size: cover; background-position: center; background-repeat: no-repeat;">
 
-###
 
+<h1 align="center">👋 Hello! I'm Ye'ela Granot </h1>
+<h3 align="center">A Computer Science & Biology graduate from Bar-Ilan University, Israel.</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yeela-granot/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=myprofile&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+<h2 align="left">👩‍💻  About Me</h2>
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
 
-###
 
 <p align="left">💻  Throughout my academic and personal projects, I've delved into a variety of domains within computer science. I'm Proficient in multiple programming languages, with experience in full-stack web development and a robust foundation in data structures, algorithms, and software architecture design principles. <br><br>✨ Possesses strong analytical skills, is detail-oriented, and an autodidact. Constantly seeking to expand my skill set and deepen my understanding of emerging technologies.</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -92,14 +86,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥  My projects 🔥</h3>
+<h2 align="left">🔥  My projects 🔥</h2>
 
-###
 
-<br clear="both">
+1. **Social Chat Application** : Led the development of a dynamic and responsive Social Chat Application, encompassing web and mobile versions. Utilized the MERN stack for seamless integration and scalability.
 
-<p align="left">Social Chat Application (Full-stack Development): Led the development of a dynamic and responsive Social Chat Application, encompassing web and mobile versions. Utilized the MERN stack (MongoDB, Express.js, React.js, Node.js) for seamless integration and scalability. Live Demo | Repository<br>Arkanoid Arcade Game (Java): Developed an Arkanoid arcade game in Java, blending classic gameplay with modern design principles. Applied object-oriented programming (OOP) concepts and design patterns to ensure robustness and extensibility. Repository<br>Protein-Ligand Interaction Analyzer (MATLAB): Engineered a MATLAB-based program to analyze and visualize interactions between proteins and ligands within binding sites. Demonstrated expertise in computational biology and data visualization techniques, contributing to advancements in molecular research. Repository<br>Python Projects: Showcased proficiency in Python programming through diverse projects. Developed the Monoalphabetic Cipher Breaker project for decrypting text encoded via genetic algorithms and the Rumor Spreading Simulator for predicting the spread of rumors within a population. Repository</p>
+  [LiveDemo](https://social-chat-app-23.onrender.com/) | [WEB-Repository](https://github.com/yeela8g/Yesh-Chat-WEB-App) | [Mobile-Repository](https://github.com/yeela8g/Yesh-Chat-Mobile-App)
+  
+2. **Arkanoid Arcade Game** : Developed an Arkanoid arcade game in Java, blending classic gameplay with modern design principles. Applied object-oriented programming (OOP) concepts and design patterns to ensure robustness and extensibility.
 
-###
+  [Repository](https://github.com/yeela8g/Arkanoid-Game)
+
+3. **Protein-Ligand Interaction Analyzer** : Engineered a MATLAB-based program to analyze and visualize interactions between proteins and ligands within binding sites. Demonstrated expertise in computational biology and data visualization techniques, contributing to advancements in molecular research.
+
+  [Repository](https://github.com/yeela8g/Matlab_Protein_Project)
+
+4. **Python Projects** : The Monoalphabetic Cipher Breaker project for decrypting text encoded via genetic algorithms | the Rumor Spreading Simulator for predicting the spread of rumors within a population.
+
+  [Monoalphabetic Cipher Breaker Repository](https://github.com/yeela8g/Monoalphabetic-Cipher-Breaker) | [Rumor Spreading Simulator Repository](https://github.com/yeela8g/Spreading-Rumor-Simulator)
