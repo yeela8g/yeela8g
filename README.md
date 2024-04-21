@@ -12,7 +12,8 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
 
 
-<p align="left">💻  Throughout my academic and personal projects, I've delved into a variety of domains within computer science. I'm Proficient in multiple programming languages, with experience in full-stack web development and a robust foundation in data structures, algorithms, and software architecture design principles. <br><br>✨ Possesses strong analytical skills, is detail-oriented, and an autodidact. Constantly seeking to expand my skill set and deepen my understanding of emerging technologies.</p>
+<p align="left">💻  Throughout my academic and personal projects, I've delved into a variety of domains within computer science. I'm Proficient in multiple programming languages, with experience in full-stack web development and a robust foundation in data structures, algorithms, and software architecture design principles. <br><br>✨ Possesses strong analytical skills, is detail-oriented, and an autodidact. Constantly seeking to expand my skill set and deepen my understanding of emerging technologies.
+Don't hesitate to get in touch if you have any inquiries or would like to team up on ventures! </p>
 
 
 <h2 align="left">🛠 Language and tools</h2>
