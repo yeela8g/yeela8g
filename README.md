@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Ye'ela Granot</h1>
 <h3 align="center">A Computer Science & Biology graduate from Bar-Ilan University, Israel.</h3>
 
-💻 **Throughout my academic and personal projects, I've delved into a variety of domains within computer science, from software development and algorithm design to machine learning and database management.Constantly seeking to expand my skill set and deepen my understanding of emerging technologies.**
+💻 **Throughout my academic and personal projects, I've delved into a variety of domains within computer science, from software development and algorithm design to machine learning and database management. Constantly seeking to expand my skill set and deepen my understanding of emerging technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
