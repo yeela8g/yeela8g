@@ -1,5 +1,3 @@
-<div style="background-image: url('https://github.com/yeela8g/yeela8g/assets/118124478/339e00c3-e8df-4b8e-948c-021144ed9644'); background-size: cover; background-position: center; background-repeat: no-repeat;">
-
 
 <h1 align="center">👋 Hello! I'm Ye'ela Granot </h1>
 <h3 align="center">A Computer Science & Biology graduate from Bar-Ilan University, Israel.</h3>
