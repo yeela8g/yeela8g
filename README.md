@@ -16,7 +16,11 @@
 Don't hesitate to get in touch if you have any inquiries or would like to team up on ventures! </p>
 
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Languages and tools</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeela8g&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<br>
 
 
 <div align="left">
@@ -85,8 +89,9 @@ Don't hesitate to get in touch if you have any inquiries or would like to team u
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-
+------
 <h2 align="left">🔥  My projects 🔥</h2>
+
 
 
 1. **Social Chat Application** : Led the development of a dynamic and responsive Social Chat Application, encompassing web and mobile versions. Utilized the MERN stack for seamless integration and scalability.
