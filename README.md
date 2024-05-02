@@ -110,4 +110,4 @@ Don't hesitate to get in touch if you have any inquiries or would like to team u
 
   [Monoalphabetic Cipher Breaker Repository](https://github.com/yeela8g/Monoalphabetic-Cipher-Breaker) | [Rumor Spreading Simulator Repository](https://github.com/yeela8g/Spreading-Rumor-Simulator)
 
-To explore more of my projects, please feel free to [click here](https://github.com/yeela8g?tab=repositories).
+> To explore more of my projects, please feel free to [click here](https://github.com/yeela8g?tab=repositories).
