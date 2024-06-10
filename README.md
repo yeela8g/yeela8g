@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello! I'm Ye'ela Granot </h1>
-<h3 align="center">Junior software developer | Computer Science & Biology graduate from Bar-Ilan University, Israel.</h3>
+<h3 align="center">Junior Software Developer | Computer Science & Biology graduate from Bar-Ilan University, Israel.</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/yeela-granot/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=myprofile&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
